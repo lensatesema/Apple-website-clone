@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0f37730.chunk.css",
+    "main.js": "/static/js/main.e747e042.chunk.js",
+    "main.js.map": "/static/js/main.e747e042.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f17a7f60.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f17a7f60.js.map",
+    "static/js/2.9801b060.chunk.js": "/static/js/2.9801b060.chunk.js",
+    "static/js/2.9801b060.chunk.js.map": "/static/js/2.9801b060.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ec2072e37fec412b8472ab338dfb686c.js": "/precache-manifest.ec2072e37fec412b8472ab338dfb686c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f0f37730.chunk.css.map": "/static/css/main.f0f37730.chunk.css.map",
+    "static/js/2.9801b060.chunk.js.LICENSE.txt": "/static/js/2.9801b060.chunk.js.LICENSE.txt",
+    "static/media/SixthContaints.css": "/static/media/spyder.3dda7621.jpg",
+    "static/media/Header.css": "/static/media/search.8dd1210f.svg",
+    "static/media/FifthContaint.css": "/static/media/watch.aa3dc733.jpg",
+    "static/media/FourthContaints.css": "/static/media/iphone11-colored.a7ef5f48.jpg",
+    "static/media/ThirdContaint.css": "/static/media/iphone11-pro-bg.573a6b36.jpg",
+    "static/media/FirstContaint.css": "/static/media/ipodPronew.f7f2ab1f.jpg",
+    "static/media/SecContaints.css": "/static/media/macbookair-new.890634a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f17a7f60.js",
+    "static/js/2.9801b060.chunk.js",
+    "static/css/main.f0f37730.chunk.css",
+    "static/js/main.e747e042.chunk.js"
+  ]
+}
